@@ -1,6 +1,14 @@
 # [Web Developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
 
 
+## Legends
+
+- **Personal Recommendation!**
+- Possibilities
+- *Pick any!*
+- Stage N: Now build something
+
+
 ## Required for any path
 
 - **Git - Version Control**
@@ -12,14 +20,6 @@
 - **Character Encodings**
 - Design Patterns
 - **GitHub**
-
-
-## Legends
-
-- **Personal Recommendation!**
-- Possibilities
-- `Pick any!`
-- Stage N: Now build something
 
 
 ## Front-end
@@ -211,7 +211,7 @@
   - **GOF Design Patterns**
   - **Architectural Patterns**
   - **Give DDD a shot**
-  - **Learn different testing techiniques**
+  - **Learn different testing techniques**
 
 
 ## DevOps
