@@ -52,7 +52,7 @@
       - **React** :sparkling_heart:
         - Flux
         - **Redux** :sparkling_heart:
-        - *Mobx*
+        - *Mobx* :sparkling_heart:
       - *Vue.js* :sparkles:
       - Preact
       - Ember JS
@@ -67,7 +67,7 @@
     - Parcel
     - RequireJS / AMD
     - Browserify
-  - **TypeScript** :sparkles:
+  - **TypeScript** :sparkling_heart:
   - Flow
 - **CSS**
   - **Responsive Web** :sparkling_heart:
@@ -96,7 +96,7 @@
       - Grids
       - Rotate :sparkling_heart:
       - Transform :sparkling_heart:
-      - Skew
+      - Skew :sparkling_heart:
       - Scale :sparkling_heart:
       - Transitions :sparkling_heart:
   - SVG
@@ -226,7 +226,7 @@
     - *Travis*
     - *CircleCI*
     - Drone
-    - Bamboo
+    - Bamboo :sparkling_heart:
 - Stage 2
   - **Monitoring and Alerting**
     - *AppDynamics*
